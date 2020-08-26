@@ -17,6 +17,15 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
+
+
 [twitter]: https://twitter.com/AnkitKu18326806
 [youtube]: https://www.youtube.com/channel/UC2R3D8a-gvIUihlRSYRuuiA?view_as=subscriber
 [instagram]: https://www.instagram.com/ankit_kmar
