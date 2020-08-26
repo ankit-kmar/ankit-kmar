@@ -30,7 +30,7 @@
 <a href="https://github.com/ankit-kmar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api/pin/?username=ankit-kmar&repo=github-readme-stats&theme=radical" />
 </a>    
-<a href="https://github.com/ankit-kmar/anuraghazra.github.io">
+<a href="https://github.com/ankit-kmar/ankit.github.io">
   <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api/pin/?username=ankit-kmar&repo=ankit.github.io&theme=radical" />
 </a>
 
