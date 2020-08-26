@@ -17,11 +17,9 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-<img align="center" alt="ankitkmar'sGithubStats"src="https://githubreadmestatsgitmaster.ankitkmar.vercel.app/apiusername=ankitkmar&show_icons=true&show_icons=true&include_all_commits=true&theme=radical" />
-
-</details>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api?username=ankit-kmar&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
 
 <p align="center"> 
   Visitor count<br>
