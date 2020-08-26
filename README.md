@@ -1,10 +1,10 @@
 ## Hi there, I'm Ankit 👋
 
 ### I'm a Student, Programmer, Developer, and Designer!
-- I’m currently learning everything 🤣
-- I’m looking to collaborate with other content creators
-- 2020 Goals: Contribute more to Open Source projects
-- Fun fact: I love to listen songs and play PUBGM
+- I’m currently learning AutoCAD & STAAD Pro
+- I’m looking to collaborate with other content creators.
+- 2020 Goals: Contribute more to Open Source projects.
+- Fun fact: I love to listen songs and play PUBGM.
 
 ### Connect with me:
 
