@@ -24,6 +24,11 @@
 
 </details>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hard-Coder05/count.svg" />
+</p>
+
 
 
 [twitter]: https://twitter.com/AnkitKu18326806
