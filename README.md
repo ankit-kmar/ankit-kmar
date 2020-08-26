@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api?username=ankit-kmar&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api/top-langs/?username=ankit-kmar&layout=compact&theme=radical" />
 </a>
 
 <p align="center"> 
