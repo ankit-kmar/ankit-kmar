@@ -23,6 +23,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api/top-langs/?username=ankit-kmar&layout=compact&theme=radical" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api/pin/?username=ankit-kmar&repo=github-readme-stats&theme=radical" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api/pin/?username=ankit-kmar&repo=anuraghazra.github.io&theme=radical" />
+</a>
 
 <p align="center"> 
   Visitor count<br>
