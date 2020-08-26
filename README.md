@@ -39,12 +39,7 @@
   <img src="https://profile-counter.glitch.me/ankit-kmar/count.svg" />
 </p>
 
-<h4 align="center">Motivate Yourself:</h4>
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
-  </a>
-</p>
+
 
 
 
