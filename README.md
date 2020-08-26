@@ -19,7 +19,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-<img align="center" alt="ankitkmar's GithubStats"src="https://githubreadmestatsgitmaster.ankitkmar.vercel.app/apiusername=ankitkmar&show_icons=true&show_icons=true&include_all_commits=true&theme=radical" />
+<img align="center" alt="ankitkmar'sGithubStats"src="https://githubreadmestatsgitmaster.ankitkmar.vercel.app/apiusername=ankitkmar&show_icons=true&show_icons=true&include_all_commits=true&theme=radical" />
 
 </details>
 
