@@ -6,8 +6,7 @@
 - 2020 Goals: Contribute more to Open Source projects.
 - Fun fact: I love to listen songs and play PUBGM.
 
-<br />
-# Connect with me :
+## Connect with me :
 
 [<img align="left" alt="ankit-kmar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ankit-kmar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -15,6 +14,7 @@
 [<img align="left" alt="ankit-kmar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ankit-kmar | YouTube" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+<br />
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
