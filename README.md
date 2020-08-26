@@ -20,7 +20,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="ankit-kmar's Github Stats" src="https://github-readme-stats-git-master.ankit-kmar.vercel.app/api?username=ankit-kmar&show_icons=true&hide_border=true" />
+<img align="center" alt="ankit-kmar's Github Stats" src="https://github-readme-stats-git-master.ankitkmar.vercel.app/apiusername=ankitkmar&show_icons=true&show_icons=true&include_all_commits=true&theme=radical"hide_border=true" />
 
 </details>
 
