@@ -19,13 +19,13 @@
 <a href="https://github.com/ankit-kmar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api?username=ankit-kmar&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ankit-kmar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api/top-langs/?username=ankit-kmar&layout=compact&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ankit-kmar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api/pin/?username=ankit-kmar&repo=github-readme-stats&theme=radical" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/ankit-kmar/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api/pin/?username=ankit-kmar&repo=ankit.github.io&theme=radical" />
 </a>
 
