@@ -34,16 +34,6 @@
   <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api/pin/?username=ankit-kmar&repo=ankit.github.io&theme=radical" />
 </a>
 
-
-
-
-
-
-
-
-
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ankit-kmar/count.svg" />
