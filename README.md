@@ -5,6 +5,7 @@
 [<img align="left" alt="ankit-kmar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ankit-kmar | YouTube" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+<br />
 
 ### I'm a Student, Programmer, Developer, and Designer!
 - I’m currently learning AutoCAD & STAAD Pro
@@ -12,7 +13,6 @@
 - 2020 Goals: Contribute more to Open Source projects.
 - Fun fact: I love to listen songs and play PUBGM.
 
-<br />
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
