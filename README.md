@@ -7,7 +7,7 @@
 - Fun fact: I love to listen songs and play PUBGM.
 
 ### Spotify Playing 🎧
-[![Spotify](https://githubspotify.vercel.app//api/spotify)](https://open.spotify.com/user/Ankit Kumar)
+[![Spotify](https://githubspotify.vercel.app//api/spotify)](https://open.spotify.com/user/AnkitKumar)
 
 ### Connect with me :
 [<img align="left" alt="ankit-kmar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
