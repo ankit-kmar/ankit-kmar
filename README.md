@@ -1,7 +1,7 @@
 ## Hi there, I'm [Ankit!] 👋
 
 ### I'm a Student, Programmer, Developer, and Designer!
-- I’m currently learning AutoCAD & STAAD Pro
+- I’m currently learning Flutter
 - I’m looking to collaborate with Designers & Developers.
 - 2020 Goals: Contribute more to Open Source projects.
 - Fun fact: I love to listen songs and play PUBGM.
