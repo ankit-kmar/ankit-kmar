@@ -22,7 +22,7 @@
 <br />
 
 <a href="https://github.com/ankit-kmar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api?username=ankit-kmar&show_icons=true&include_all_commits=true&theme=cyan" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api?username=ankit-kmar&show_icons=true&include_all_commits=true&theme=light" alt="Anurag's github stats" />
 </a>
 
 
