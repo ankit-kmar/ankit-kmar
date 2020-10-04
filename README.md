@@ -22,7 +22,7 @@
 <br />
 
 <a href="https://github.com/ankit-kmar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api?username=ankit-kmar&show_icons=true&include_all_commits=true&theme=black" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api?username=ankit-kmar&show_icons=true&include_all_commits=true&theme=white" alt="Anurag's github stats" />
 </a>
 
 
@@ -35,7 +35,7 @@
 
 
 
-[twitter]: https://twitter.com/AnkitKu18326806
+[twitter]: https://twitter.com/AnkitKmar3
 [youtube]: https://www.youtube.com/channel/UC2R3D8a-gvIUihlRSYRuuiA?view_as=subscriber
 [instagram]: https://www.instagram.com/ankit_kmar
 [linkedin]: https://www.linkedin.com/in/ankit-kumar-345425192/
