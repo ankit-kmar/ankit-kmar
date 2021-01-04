@@ -3,8 +3,8 @@
 ### I'm a Student, Programmer, Developer, and Designer!
 - I’m currently learning Flutter
 - I’m looking to collaborate with Designers & Developers.
-- 2020 Goals: Contribute more to Open Source projects.
-- Fun fact: I love to listen songs and play Among Us.
+- 2021 Goals: Contribute more to Open Source projects.
+- Fun fact: I love to listen songs and play Stumble Guys.
 
 ### Spotify Playing 🎧
 [![Spotify](https://githubspotify.vercel.app//api/spotify)](https://open.spotify.com/user/AnkitKumar)
