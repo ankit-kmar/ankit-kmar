@@ -40,5 +40,5 @@
 [instagram]: https://www.instagram.com/ankit_kmar
 [linkedin]: https://www.linkedin.com/in/ankit-kumar-345425192/
 [facebook]: https://www.facebook.com/profile.php?id=100016548729812
-[Ankit!]: https://twitter.com/AnkitKu18326806
+[Ankit!]: https://twitter.com/AnkitKmar3
 [discord]: https://discord.com/channels/@me
