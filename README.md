@@ -5,9 +5,9 @@
 I am an Engineering Student, Web developer and an Anime-Lover. I love experimenting with new technologies and building small projects.<br>
 <br>
 - 🔭 I’m currently learning everything .
-- ✍🏻 I’m Design Executive @CodeChef NITRR Chapter and Core Team Member @Innovation Cell NIT Raipur
+- ✍🏻 I’m Design Executive @CodeChef NITRR Chapter and Core Team Member @ICellNITRR
 - ⚡ Fun fact : I may not look but I miss PUBGM!
--  <img src="![Metrics](https://metrics.lecoq.io/ankit-kmar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta)" alt="" width="300">
+-  <img src="https://metrics.lecoq.io/ankit-kmar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" alt="" width="300">
 <br>
 <p align="center">
 <img alt="My Github stats" align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api?username=ankit-kmar&show_icons=true&theme=gruvbox&show_icons=true&count_private=true">
