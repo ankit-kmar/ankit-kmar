@@ -1,44 +1,49 @@
-## Hi there, I'm [Ankit!] 👋
-
-### I'm a Student, Programmer, Developer, and Designer!
-- I’m currently learning Flutter
-- I’m looking to collaborate with Designers & Developers.
-- 2021 Goals: Contribute more to Open Source projects.
-- Fun fact: I love to listen songs and play Stumble Guys.
-
-### Spotify Playing 🎧
-[![Spotify](https://githubspotify.vercel.app//api/spotify)](https://open.spotify.com/user/AnkitKumar)
-
-### Connect with me :
-[<img align="left" alt="ankit-kmar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ankit-kmar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ankit-kmar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ankit-kmar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="ankit-kmar | YouTube" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ankit-kmar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+### <h2 align="center">Hi, Ankit this side<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
-<br />
-<br />
 
-<a href="https://github.com/ankit-kmar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api?username=ankit-kmar&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
-</a>
+I am an Engineering Student, Web developer and an Anime-Lover. I love experimenting with new technologies and building small projects.<br>
+<br>
+- 🔭 I’m currently learning everything .
+- ✍🏻 I’m Design Executive @CodeChef NITRR Chapter and Core Team Member @Innovation Cell NIT Raipur
+- ⚡ Fun fact : I may not look but I miss PUBGM!
+-  <img src="![Metrics](https://metrics.lecoq.io/ankit-kmar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta)" alt="" width="300">
+<br>
+<p align="center">
+<img alt="My Github stats" align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api?username=ankit-kmar&show_icons=true&theme=gruvbox&show_icons=true&count_private=true">
+  </p>
+<br>
+<hr>
 
+<p align="center">
+  <i>Programming Languages &nbsp&nbsp&nbsp || &nbsp&nbsp&nbsp Tools || &nbsp&nbsp&nbsp Packages</i>
+<p align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="25px" height="25px"></a>
+ <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="25px" height="25px"></a>
+ <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="25px" height="25px"></a>
+ <a href="https://jquery.com/" title="jQuery"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="25px" height="25px"></a>
+ <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="25px" height="25px"></a>
+ <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="25px" height="25px"></a>
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="25px" height="25px"></a>
+ <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="25px" height="25px"></a>
+<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="25px" height="25px"></a>
+ <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="25px" height="25px"></a>
+<a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="25px" height="25px"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="25px" height="25px"></a>
+<a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C++" width="25px" height="25px"></a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ankit-kmar/count.svg" />
 </p>
+  <br>
+</p>
+<hr>
 
-
-
-
-
-[twitter]: https://twitter.com/AnkitKmar3
-[youtube]: https://www.youtube.com/channel/UC2R3D8a-gvIUihlRSYRuuiA?view_as=subscriber
-[instagram]: https://www.instagram.com/ankit_kmar
-[linkedin]: https://www.linkedin.com/in/ankit-kumar-345425192/
-[facebook]: https://www.facebook.com/profile.php?id=100016548729812
-[Ankit!]: https://twitter.com/AnkitKmar3
-[discord]: https://discord.com/channels/@me
+<p align="center">
+  <i>Want to talk about Anime? Let's connect and chat! Open to anyone.</i>
+<p align="center">
+    <a href=" https://www.instagram.com/ankit_kmar/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
+    <a href="https://www.instagram.com/ankit_kmar" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
+    <a href=" https://www.facebook.com/profile.php?id=100016548729812" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
+    <a href="https://github.com/ankit-kmar" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
+</p>
+  
+</p>
