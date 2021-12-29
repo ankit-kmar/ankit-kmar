@@ -40,11 +40,8 @@ I am an Engineering Student, Web developer and an Anime-Lover. I love experiment
 <p align="center">
   <i>Want to talk about Anime? Let's connect and chat! Open to anyone.</i>
 <p align="center">
-    <a href="https://twitter.com/AnkitKmar3" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/ankit-kumar-345425192/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
-    <a href="https://www.instagram.com/ankit_kmar" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
-    <a href="https://www.facebook.com/profile.php?id=100016548729812" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
-    <a href="https://github.com/ankit-kmar" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
+    <a href="https://twitter.com/AnkitKmar3" alt="Twitter"><img src="https://github.com/ankit-kmar/ankit-kmar/blob/master/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/ankit-kumar-345425192/" alt="Linkedin"><img src="https://github.com/ankit-kmar/ankit-kmar/blob/master/readme/linkedin-fill.svg"></a>
 </p>
   
 </p>
