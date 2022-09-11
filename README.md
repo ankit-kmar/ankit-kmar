@@ -2,7 +2,7 @@
 
 
 
-I am an Engineering Student, Web developer and an Anime-Lover. I love experimenting with new technologies and building small projects.<br>
+I am an Engineering Student, Developer, Tester and an Anime-Lover. I love experimenting with new technologies and building small projects.<br>
 <br>
 - Final year student @NITRR⚡
 - 🔭 I’m currently learning looking for new oppurtunities. Pls find my resume attached below.
