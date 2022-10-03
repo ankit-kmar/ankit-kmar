@@ -23,6 +23,17 @@ I am an Engineering Student, Developer, Tester and an Anime-Lover. I love experi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+<h4><b><samp>Tools </samp></b></h4>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+
+<h4><b><samp>IDE</samp></b></h4>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=ffffff)
 
 </p>
   <br>
@@ -36,4 +47,8 @@ I am an Engineering Student, Developer, Tester and an Anime-Lover. I love experi
     <a href="https://www.linkedin.com/in/ankit-kumar-345425192/" alt="Linkedin"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"></a>
 </p>
   
+</p>
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ankit-kmar/count.svg" />
 </p>
