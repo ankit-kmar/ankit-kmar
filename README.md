@@ -40,8 +40,8 @@ I am an Engineering Student, Developer, Tester and an Anime-Lover. I love experi
 <p align="center">
   <i>Want to talk about Anime? Let's connect and chat! Open to anyone.</i>
 <p align="center">
-    <a href="https://twitter.com/AnkitKmar3" alt="Twitter"><img src="https://github.com/ankit-kmar/ankit-kmar/blob/master/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/ankit-kumar-345425192/" alt="Linkedin"><img src="https://github.com/ankit-kmar/ankit-kmar/blob/master/readme/linkedin-fill.svg"></a>
+    <a href="https://twitter.com/AnkitKmar3" alt="Twitter"><img src="https://img.icons8.com/fluent/30/000000/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/ankit-kumar-345425192/" alt="Linkedin"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"></a>
 </p>
   
 </p>
